@@ -1,0 +1,67 @@
+
+button {
+    color: black!important;
+    padding: 15px 32px !important;
+    border-radius: 30px !important;
+    background-color: #FAF1C8 !important;
+}
+ 
+#textField1 {
+    display: none;
+    color: white;
+}
+
+#textField2{
+    display: none;
+    color: white;
+}
+
+#textField3{
+    display: none;
+    color: white;
+}
+
+#textField4{
+    display: none;
+    color: white;
+}
+
+#textField5{
+    display: none;
+    color: white;
+}
+
+#textField6{
+    display: none;
+    color: white;
+}
+
+#textField8{
+    display: none;
+    color: white;
+}
+
+#winnerbaby {
+    display: none;
+    color: lightgreen;
+}
+
+p {
+    font-size: 20px;
+    color: white; 
+}
+
+button{
+    font-size: 20px
+}
+
+body {
+    text-align: center;
+    background-image: url('https://th.bing.com/th/id/R.c80dabba8ea7aa6b7837bb8b8d3d2af4?rik=nVFUWeiDarU0%2bw&pid=ImgRaw&r=0');
+    background-size: cover;
+}
+
+button:hover {
+    cursor: pointer;
+}
+

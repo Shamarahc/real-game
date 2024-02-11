@@ -1,0 +1,32 @@
+#NoOption {
+    display: none;
+    color: white;
+}
+
+button {
+    color: black; 
+    padding: 15px 32px;
+    border-radius: 30px;
+    background-color: #FAF1C8;
+}
+
+body {
+    text-align: center;
+    background-image: url('https://wallpapers.com/images/high/calm-aesthetic-desktop-19ks2rryt11rwp6z.webp');
+    background-size: cover;
+}
+
+p1 { 
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    color: white; 
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+

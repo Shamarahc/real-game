@@ -1,0 +1,37 @@
+
+button {
+
+    color: #ff3399;
+    padding: 15px 32px !important; 
+    border-radius: 30px !important;
+    background-color: grey; 
+
+}
+body{
+    text-align:center;
+    background-image: url('https://img.freepik.com/premium-photo/beautiful-sky-colorful-gentle-light-day-background-sunny-fluffy-clouds-with-magical-violet-purple-color-cloud-picturesque_31965-198873.jpg');
+    background-size: cover;
+}
+
+p {
+    font-size: 25px; 
+    color: #E95BA2
+    
+} 
+
+P{
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  button:hover {
+    cursor: pointer;
+}
+
